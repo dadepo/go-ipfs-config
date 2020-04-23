@@ -1,4 +1,6 @@
-module github.com/ipfs/go-ipfs-config
+module github.com/dadepo/go-ipfs-config
+
+go 1.14
 
 require (
 	github.com/facebookgo/atomicfile v0.0.0-20151019160806-2de1f203e7d5

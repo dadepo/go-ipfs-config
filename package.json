@@ -1,10 +1,10 @@
 {
   "author": "magik6k",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipfs-config"
+    "url": "https://github.com/dadepo/go-ipfs-config"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipfs-config"
+    "dvcsimport": "github.com/dadepo/go-ipfs-config"
   },
   "gxDependencies": [
     {
